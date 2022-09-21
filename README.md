@@ -8,7 +8,7 @@ https://codesandbox.io/s/confident-elbakyan-98gfcc?file=/index.js
 
 Być może trzeba będzie kilka razy odświeżyć stronę, aby projekt w pełni się załadował.
 
-Ruch kamery uwzględnia wykorzystanie myszy, poprzez wciśnięcie lewego przycisku myszy jesteśmy w stanie nią kierować, zmieniając punkt obserwacji flary.
+Ruch kamery uwzględnia wykorzystanie myszy, poprzez wciśnięcie lewego przycisku jesteśmy w stanie nią kierować, zmieniając punkt obserwacji flary.
 
 ======================================================================
 
