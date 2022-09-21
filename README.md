@@ -22,3 +22,5 @@ Natomiast gdyby chciałby Pan faktycznie pobrać projekt i go uruchomić, należ
 
 4. Uruchomić projekt:
 - npm start
+
+W razie problemów z uruchomieniem proszę o kontakt mailowy.
