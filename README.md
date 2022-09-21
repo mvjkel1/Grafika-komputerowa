@@ -11,6 +11,8 @@ Być może trzeba będzie kilka razy odświeżyć stronę, aby projekt w pełni 
 
 Ruch kamery uwzględnia wykorzystanie myszy, poprzez wciśnięcie lewego przycisku myszy jesteśmy w stanie nią kierować, zmieniając punkt obserwacji flary.
 
+=================================================================================================================================================
+
 Natomiast gdyby chciałby Pan faktycznie pobrać projekt i go uruchomić, należy:
 
 1. Sklonować projekt na dysk
