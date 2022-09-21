@@ -1,5 +1,4 @@
-# Temat projektu:
-Rysowanie lens-flares przy patrzeniu w źródło światła. Wykrywanie czy jest widoczne + płynne ich zanikanie".
+# Temat projektu: Rysowanie lens-flares przy patrzeniu w źródło światła. Wykrywanie czy jest widoczne + płynne ich zanikanie".
 
 Projekt został zrealizowany z wykorzystaniem biblioteki języka JavaScript o nazwie ThreeJs.
 
