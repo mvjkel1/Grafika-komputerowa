@@ -7,7 +7,7 @@ Aby usprawnić proces sprawdzania pracy, postanowiliśmy użyć gotowego środow
 
 https://codesandbox.io/s/confident-elbakyan-98gfcc?file=/index.js
 
-Być może trzeba będzie kilka razy odświeżyć stronę, aby faktycznie projekt w pełni się załadował.
+Być może trzeba będzie kilka razy odświeżyć stronę, aby projekt w pełni się załadował.
 
 Natomiast gdyby chciałby Pan faktycznie pobrać projekt i go uruchomić, należy:
 
