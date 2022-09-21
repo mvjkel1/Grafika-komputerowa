@@ -9,7 +9,7 @@ https://codesandbox.io/s/confident-elbakyan-98gfcc?file=/index.js
 
 Być może trzeba będzie kilka razy odświeżyć stronę, aby faktycznie projekt w pełni się załadował.
 
-Natomiast gdyby chciałby Pan faktycznie pobrać projekt należy:
+Natomiast gdyby chciałby Pan faktycznie pobrać projekt i go uruchomić, należy:
 
 1. Sklonować projekt na dysk
 - git clone https://github.com/mvjkel1/Grafika-komputerowa.git
